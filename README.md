@@ -1,4 +1,7 @@
 # pokebattle-vue
+Example project for learning purpose in vue
+
+Figma references [here](https://www.figma.com/file/i5UbrtH7TpoAZCuFqAhPqD/Pokebattle)
 
 ## Project setup
 ```
